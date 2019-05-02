@@ -13,7 +13,7 @@
 |0|1|1|
 |0|0|0|
 
-所以是把or给排除了
+所以是or,截图答案选错了
 #### Q3
 <a href="https://ibb.co/smB8YHt"><img src="https://i.ibb.co/GxhzSTF/2019-05-02-4-49-41.png" alt="2019-05-02-4-49-41" border="0"></a>
 
