@@ -1,3 +1,3 @@
 ## Week4-NOTE
 #### Author: Zed FANG
-* Neural Network
+* Neural Network Representation
